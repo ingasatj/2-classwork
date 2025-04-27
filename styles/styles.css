@@ -1,0 +1,78 @@
+body {
+  font-family: "Lexend Deca", sans-serif;
+}
+.mainLayers {
+  max-width: 1440px;
+  height: 693px;
+  background-color: #d9d9d9;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.blogCards {
+  width: 364px;
+  height: 509px;
+  padding-bottom: 16px;
+
+  border-radius: 8px;
+  background-color: #ffffff;
+}
+.mainImg {
+  width: 364px;
+  height: 220px;
+  border: 1px;
+  border-radius: 8px 8px 0px 0px;
+  background-color: #dae3ea;
+  padding: 0;
+}
+.text {
+  width: 364px;
+  height: 153px;
+  padding: 0 16px;
+}
+.heading {
+  width: 332px;
+  height: 60px;
+  margin-bottom: 24px;
+  line-height: 30px;
+  font-size: 24px;
+  color: #5468e7;
+}
+.anInternal {
+  width: 332px;
+  height: 69px;
+  font-size: 14px;
+  line-height: 23px;
+  color: #232340;
+  text-align: justify;
+}
+.auther {
+  width: 332px;
+  height: 48px;
+  margin-top: 50px;
+  color: #7676b2;
+  text-align: justify;
+  padding: 0 16px;
+  display: flex;
+  flex-direction: row;
+}
+.avatar {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+}
+.auther.name {
+  width: 159px;
+  height: 48px;
+  padding: 0 px;
+}
+.vector {
+  width: 0px;
+  height: 24px;
+  padding: 0px;
+}
+.date {
+  width: 96px;
+  height: 48px;
+  padding: 0 8px;
+}
